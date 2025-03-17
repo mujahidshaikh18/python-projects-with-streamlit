@@ -10,7 +10,10 @@ st.title("Data Sweeper")
 st.markdown(
     """
     <style>
-    .stAPP{background-color: black; color: white;}
+    .stAPP{
+    background-color: black; 
+    color: white;
+    }
     </style>
     """,
     unsafe_allow_html=True
